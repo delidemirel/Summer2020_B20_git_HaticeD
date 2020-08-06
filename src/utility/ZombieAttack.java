@@ -37,5 +37,6 @@ public class ZombieAttack {
     System.out.print("Day "+ count++ + " ");
     System.out.println(Arrays.toString(inhabitants));
     System.out.println("---- EXTINCT ----");
+        System.out.println("HELLO");
 }
 }
